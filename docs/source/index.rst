@@ -8,3 +8,5 @@ https://nvk0x.github.io
    :caption: Contents:
 
    draft/OIP-3
+   how-to/how-to-setup-and-configure-openhim.rst
+   how-to/how-to-setup-and-configure-openhim
